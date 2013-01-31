@@ -1,0 +1,10 @@
+
+body {background-image: url('assets/omfgdogs.gif');}
+h1{font-size: 30px;}
+#link{position: absolute; bottom: 0px; right: 0px; font-size : 45px;}
+a:link {color:#000000;}      
+a:visited {color:#000000;} 
+a:hover {color:#FF00FF;} 
+a:active {color:#0000FF;}
+
+
